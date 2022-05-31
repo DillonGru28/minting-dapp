@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCDed6Ffa1505e83F14dbd049e4C9B08E119B76f0",
+  "SCAN_LINK": "https://polygonscan.com/address/0xcded6ffa1505e83f14dbd049e4c9b08e119b76f0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Shiny Apes",
+  "SYMBOL": "Shiny Ape",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 90000000000000000000,
+  "DISPLAY_COST": 90,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/theshinyapes-1",
+  "SHOW_BACKGROUND": true
+}
